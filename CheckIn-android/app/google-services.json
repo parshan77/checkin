@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594227103294",
+    "project_id": "fir-check-in",
+    "storage_bucket": "fir-check-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594227103294:android:bb3c192e9b1ae23444736f",
+        "android_client_info": {
+          "package_name": "com.app.firebase.check_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594227103294-frccarc564smeu8fesvttb3ehn6elfut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJMzJm4aiI4f2wcI2gSRhR7BQETJnaR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594227103294-frccarc564smeu8fesvttb3ehn6elfut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
